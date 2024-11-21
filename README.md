@@ -17,7 +17,7 @@ Welcome to my **DevOps Portfolio**, where I demonstrate my practical experience 
 
 ### Personal CV Landing Page
 - Developed a professional, user-friendly **CV landing page** showcasing my experience and skills.  
-  [View my CV Landing Page here](https://github.com/rimshasd1/DevOps-Course-2024/blob/main/index.html)
+  [View my CV Landing Page here](https://rimshasd1.github.io/DevOps-Course-2024/)
 
 ## Links to My Blogs
 - [A Beginner's Guide to Using Infrastructure as Code (IaC) for DevOps Scaling](https://medium.com/@rimshasyed17/a-beginners-guide-to-using-infrastructure-as-code-iac-for-devops-scaling-277f1246f25e)
